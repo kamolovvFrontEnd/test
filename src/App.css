@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.mob-dev {
+  display: block;
+}
+
+@media (min-width: 500px) {
+  .mob-dev {
+    display: none;
+  }
+}

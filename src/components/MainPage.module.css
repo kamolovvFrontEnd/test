@@ -1,0 +1,127 @@
+.firstSection {
+  background-image: url("../assets/firstSection.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 700px;
+  padding: 1rem;
+  color: #ffffff;
+}
+
+.firstSection h1 {
+  font-size: 2rem;
+  color: #ffc700;
+}
+.firstSection h4 {
+  font-size: 1.5rem;
+}
+.firstSection p {
+  font-size: 1.5rem;
+}
+
+.btnStyle {
+  background-color: #ffc700;
+  text-decoration: none;
+  color: #000000;
+  border: none;
+  font-size: 1.4rem;
+  width: 200px;
+  padding-block: 1rem;
+  padding-inline: 2rem;
+  border-radius: 20px;
+}
+
+.moreInfo {
+  text-decoration: none;
+  color: #fff;
+}
+
+.secondSection {
+  background-image: url("../assets/secondSection.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 430px;
+  padding: 1rem;
+  padding-block: 2rem;
+  color: #ffffff;
+}
+
+.thirdSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  padding-block: 2rem;
+}
+
+.thirdSection a {
+  background-color: #ffc700;
+  text-decoration: none;
+  color: #000000;
+  border: none;
+  font-size: 1.4rem;
+  padding-block: 1rem;
+  padding-inline: 2rem;
+  border-radius: 20px;
+  margin-inline: auto;
+}
+
+.thirdSection span {
+  font-weight: bold;
+}
+
+.fourthSection {
+  background-image: url("../assets/fourthSection.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  padding-bottom: 0;
+  color: #ffffff;
+}
+
+.fourthSection a {
+  background-color: inherit;
+  color: #fff;
+  border: 2px solid white;
+  text-decoration: none;
+  font-size: 1.4rem;
+  margin-inline: auto;
+  padding-block: 1rem;
+  padding-inline: 2rem;
+  border-radius: 20px;
+}
+
+.yellowText {
+  color: #ffc700;
+}
+
+.firstParagraph {
+  text-align: start;
+  font-size: 2rem;
+}
+
+.secondParagraph {
+  color: #000000;
+  padding-inline: 1rem;
+  padding-block: 2rem;
+  background-color: #f3f3f2cc;
+  opacity: 80%;
+  font-size: 2rem;
+  text-align: start;
+  border-radius: 20px;
+}
+
+.boldText {
+  font-weight: bold;
+}

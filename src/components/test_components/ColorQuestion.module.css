@@ -1,0 +1,13 @@
+.radios {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  padding: 10px;
+  margin-bottom: 25px;
+}
+
+.color_radios {
+  appearance: none;
+  height: 75px;
+}
+
